@@ -4,7 +4,7 @@ const {
   resgisterUser,
   loginUser,
   getMe,
-} = require('../controllers/registerController');
+} = require('../controllers/userController');
 
 router.post('/', resgisterUser);
 router.post('/login', loginUser);
