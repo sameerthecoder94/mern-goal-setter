@@ -9,8 +9,6 @@
 
 ### Install dependencies
 
-# Backend
-
 ```
 npm install
 ```
